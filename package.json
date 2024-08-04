@@ -1,0 +1,11 @@
+{
+  "name": "basicreact",
+  "version": "1.0.0",
+  "description": "This is Basic React App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rakesh",
+  "license": "ISC"
+}
